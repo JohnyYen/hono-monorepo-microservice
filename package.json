@@ -14,6 +14,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.27.0",
   "dependencies": {
-    "@ignix/core": "^0.1.0"
+    "@ignix/core": "^1.6.0"
   }
 }

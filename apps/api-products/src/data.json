@@ -1,0 +1,27 @@
+[
+  {
+    "id": "prod1",
+    "name": "Laptop Gamer",
+    "price": 1200
+  },
+  {
+    "id": "prod2",
+    "name": "Teclado Mecánico",
+    "price": 95
+  },
+  {
+    "id": "prod3",
+    "name": "Mouse Inalámbrico",
+    "price": 50
+  },
+  {
+    "id": "prod4",
+    "name": "Monitor Ultra-Wide",
+    "price": 450
+  },
+  {
+    "id": "prod5",
+    "name": "Webcam Full HD",
+    "price": 70
+  }
+]

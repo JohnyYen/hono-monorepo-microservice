@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@ignix/core':
-        specifier: ^0.1.0
-        version: 0.1.0
+        specifier: ^1.6.0
+        version: 1.6.0
 
   apps/api-products:
     dependencies:
@@ -214,8 +214,8 @@ packages:
     peerDependencies:
       hono: ^4
 
-  '@ignix/core@0.1.0':
-    resolution: {integrity: sha512-BNN0u1YZI0SXrT6BPBCqz5/+NYkGh5yVQFhoDndL0+X3bF9GFjt6P3XouE/WxQ0oPeWewQ4d8AjYyXusaMcDCQ==}
+  '@ignix/core@1.6.0':
+    resolution: {integrity: sha512-KYkzZYdlGKMPgMGrF34RN//Gq5DDoboDof7wcEN1f5z3+BAtC7foAgS0w5H0NM3eDjpBjdAPC26P6iUtWFyNKQ==}
 
   '@types/node@20.19.30':
     resolution: {integrity: sha512-WJtwWJu7UdlvzEAUm484QNg5eAoq5QR08KDNx7g45Usrs2NtOPiX8ugDqmKdXkyL03rBqU5dYNYVQetEpBHq2g==}
@@ -337,7 +337,7 @@ snapshots:
     dependencies:
       hono: 4.11.7
 
-  '@ignix/core@0.1.0': {}
+  '@ignix/core@1.6.0': {}
 
   '@types/node@20.19.30':
     dependencies:
